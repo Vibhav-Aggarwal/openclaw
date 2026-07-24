@@ -66,8 +66,8 @@ This is a **companion repository** containing:
 
 ## Related Projects
 
-- [Lala Net](https://github.com/Vibhav-Aggarwal/lala-net-public) — Sovereign compute infrastructure (Q2 paper)
-- [ARES](https://github.com/Vibhav-Aggarwal/ARES) — Distributed WiFi security assessment (Q1 paper)
+- [Lala Net](https://github.com/Vibhav-Aggarwal/lala-net-public) — Sovereign compute infrastructure (see *Zero-Cost Sovereign Computing* paper)
+- [ARES](https://github.com/Vibhav-Aggarwal/ARES) — Distributed WiFi security assessment (see *Signal-Optimized Device Selection* paper)
 - [Athena](https://github.com/Vibhav-Aggarwal/Athena) — Drug intelligence knowledge graph
 
 ---
