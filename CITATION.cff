@@ -1,7 +1,14 @@
 cff-version: 1.2.0
-message: "If you use OpenClaw or cite the paper, please use the metadata below."
+message: "If you use this repository, please cite both it and the paper below."
+title: "OpenClaw: WhatsApp-Native Agentic LLM Orchestration for Multi-Domain Small-Business Operations"
+abstract: >
+  OpenClaw is a WhatsApp-native agentic LLM orchestration system deployed across
+  three Indian SMB production instances. It treats WhatsApp as the primary operating
+  interface, layering persistent memory (Mem0), semantic search (Qdrant), and local
+  inference (Ollama) to enable multi-domain business automation without proprietary
+  SaaS platforms. This companion repository contains the sanitized reference
+  architecture and non-sensitive configuration patterns described in the paper.
 type: software
-title: "OpenClaw: WhatsApp-Native Agentic LLM Orchestration for Indian SMBs"
 authors:
   - family-names: Aggarwal
     given-names: Vibhav
@@ -10,15 +17,8 @@ authors:
 version: "1.0.0"
 date-released: "2026-04-21"
 license: CC-BY-4.0
-repository-code: "https://github.com/Vibhav-Aggarwal/openclaw-public"
-url: "https://doi.org/10.5281/zenodo.19679449"
-doi: "10.5281/zenodo.19679449"
-abstract: >
-  OpenClaw is a WhatsApp-native agentic LLM orchestration system deployed across
-  three Indian SMB production instances. It treats WhatsApp as the primary operating
-  interface, layering persistent memory (Mem0), semantic search (Qdrant), and local
-  inference (Ollama) to enable multi-domain business automation without proprietary
-  SaaS platforms.
+repository-code: "https://github.com/Vibhav-Aggarwal/openclaw"
+url: "https://github.com/Vibhav-Aggarwal/openclaw"
 keywords:
   - agentic LLM
   - WhatsApp automation
@@ -30,14 +30,11 @@ keywords:
   - Ollama
   - small business AI
 preferred-citation:
-  type: misc
+  type: article
   title: "OpenClaw: WhatsApp-Native Agentic LLM Orchestration for Multi-Domain Small-Business Operations — A Three-Instance Production Case Study"
   authors:
     - family-names: Aggarwal
       given-names: Vibhav
       orcid: "https://orcid.org/0009-0000-7686-7119"
   year: 2026
-  month: 4
-  publisher: Zenodo
   doi: "10.5281/zenodo.19679449"
-  url: "https://doi.org/10.5281/zenodo.19679449"
